@@ -27,7 +27,7 @@ console.log("A1");
 
 server.use(routes);
 
-server.listen(8000, (error) => {
+server.listen(3000, (error) => {
     if (error) {
         console.log("Error starting server: " + error);
     } else {
