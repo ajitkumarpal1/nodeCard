@@ -31,6 +31,6 @@ server.listen(3000, (error) => {
     if (error) {
         console.log("Error starting server: " + error);
     } else {
-        console.log("Server started on port 8000");
+        console.log("Server started on port : 3000");
     }
 });
