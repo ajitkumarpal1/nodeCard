@@ -1,6 +1,8 @@
 # CARD_with_Node.js_and_MongoDB
 This project is a simple server-side application built using Node.js, Express.js, and MongoDB. It provides RESTful APIs for managing user data in a MongoDB database.
 
+(NOTE:-replace the values of .ev file)
+
 Card Project  =>
 This is a sample project that demonstrates a basic CRUD (Create, Read, Update, Delete) functionality for managing user data using a Node.js server and MongoDB database. The project provides a RESTful API for performing CRUD operations on user data.
 
